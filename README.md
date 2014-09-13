@@ -1,7 +1,7 @@
 Learn-GIT
 =========
 
-Learn ho to use GIT from console!
+Learn easily how to use GIT from console!
 
 Step by step with these three links:
 
@@ -10,3 +10,5 @@ Step by step with these three links:
 2. (basic&useful) - practilac exercises: https://try.github.io/levels/1/challenges/1
 
 3. (advanced): https://github.com/mikoSTAR/Learn-GIT/edit/usung-branches/README.md
+
+It's not a magic, really!
